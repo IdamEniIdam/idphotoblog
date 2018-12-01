@@ -18,7 +18,7 @@ class Main extends Component {
     return (
       <div>
         <h1>
-          <Link to="/"> Photowall </Link>
+          <Link to="/">ID Photowall Blog </Link>
         </h1>
 
         <Route
